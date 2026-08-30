@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kamesh  
 
 <p align="center">
-  <img src="./xxz.jpeg" alt="Banner" width="100%" />
+  <img src="./banner.jpeg" alt="banner" width="100%" />
 </p>
 
 <p align="center">

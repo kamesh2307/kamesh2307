@@ -1,17 +1,15 @@
-# 👋 Hi, I’m Kamesh  
-
-<p align="center">
-  <img src="./banner.jpeg" alt="banner" width="100%" />
+ <p align="center">
+  <img src="./banner.jpg" alt="banner" width="100%" />
 </p>
+Hi I’m Kamesh 👋👋
 
-<p align="center">
+Aspiring Product Manager | Strategy | User Insights | Roadmaps
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kameshpm&color=blue&style=flat-square&label=Total+Visitors" alt="Total Visitors"/>
   <img src="https://komarev.com/ghpvc/?username=kameshpm&color=green&style=flat-square&label=Unique+Visitors" alt="Unique Visitors"/>
 </p>
-
-Aspiring Product Manager • Strategy • User Insights • Roadmaps  
-
----
+  
 
 ## 🔧 What I Work On
 Strategy & Research | User-Centric Products | Bridging Needs & Goals | Roadmapping & Prioritization | Cross-Functional Collaboration | Strategic Decision-Making | Delivering Measurable Impact  
@@ -20,14 +18,14 @@ Strategy & Research | User-Centric Products | Bridging Needs & Goals | Roadmappi
 
 ## ❤️ Favorite Products
 
-<p align="center">
+<p align="left">
   <img src="./netflix.png" alt="netflix" width="100"/>
-  <img src="./Hotstar.png" alt="Hotstar" width="100"/>
+  <img src="./Hotstar.jpg" alt="Hotstar" width="100"/>
   <img src="./xbox.png" alt="xbox" width="100"/>
-  <img src="./Steam.png" alt="Steam" width="100"/>
+  <img src="./Steam.jpg" alt="Steam" width="100"/>
 </p>
 
-<p align="center">
+<p align="left">
 Entertainment | Streaming | Gaming | Community
 </p>
 
@@ -35,15 +33,15 @@ Entertainment | Streaming | Gaming | Community
 
 ## 🛠 Skills & Tools
 
-<p align="center">
-  <img src="./office.png" alt="office" width="100"/>
-  <img src="./powerBI.png" alt="power BI" width="100"/>
-  <img src="./excel.png" alt="excel" width="100"/>
-  <img src="./notion.png" alt="notion" width="100"/>
-  <img src="./figma.png" alt="figma" width="100"/>
+<p align="left">
+  <img src="./office.jpg" alt="office" width="100"/>
+  <img src="./powerbi.jgp" alt="powerbi" width="100"/>
+  <img src="./excel.jpg" alt="excel" width="100"/>
+  <img src="./notion.jpg" alt="notion" width="100"/>
+  <img src="./figma.jpg" alt="figma" width="100"/>
 </p>
 
-<p align="center">
+<p align="left">
 Collaboration | Data Visualization | Analysis | Organization | Design
 </p>
 
@@ -51,7 +49,7 @@ Collaboration | Data Visualization | Analysis | Organization | Design
 
 ## 📚 Learning & Growth
 
-<p align="center">
+<p align="left">
 User Research | Data-Driven Decision Making | Roadmapping & Prioritization | Cross-Functional Leadership | AI in Product Management | Empathy | Analytics | Execution
 </p>
 

@@ -21,10 +21,10 @@ Strategy & Research | User-Centric Products | Bridging Needs & Goals | Roadmappi
 ## ❤️ Favorite Products
 
 <p align="center">
-  <img src="./Netflix.png" alt="Netflix" width="100"/>
-  <img src="./Hotstar.png" alt="Hotstar" width="100"/>
+  <img src="./netflix.png" alt="netflix" width="100"/>
+  <img src="./hotstar.png" alt="hotstar" width="100"/>
   <img src="./Xbox.png" alt="Xbox" width="100"/>
-  <img src="./Steam.png" alt="Steam" width="100"/>
+  <img src="./steam.png" alt="steam" width="100"/>
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@ Entertainment | Streaming | Gaming | Community
 ## 🛠 Skills & Tools
 
 <p align="center">
-  <img src="./Office.png" alt="Office" width="100"/>
-  <img src="./PowerBI.png" alt="Power BI" width="100"/>
-  <img src="./Excel.png" alt="Excel" width="100"/>
-  <img src="./Notion.png" alt="Notion" width="100"/>
-  <img src="./Figma.png" alt="Figma" width="100"/>
+  <img src="./office.png" alt="office" width="100"/>
+  <img src="./powerBI.png" alt="power BI" width="100"/>
+  <img src="./excel.png" alt="excel" width="100"/>
+  <img src="./notion.png" alt="notion" width="100"/>
+  <img src="./figma.png" alt="figma" width="100"/>
 </p>
 
 <p align="center">

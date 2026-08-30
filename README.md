@@ -35,7 +35,7 @@ Entertainment | Streaming | Gaming | Community
 
 <p align="left">
   <img src="./office.jpg" alt="office" width="100"/>
-  <img src="./powerbi.jgp" alt="powerbi" width="100"/>
+  <img src="./power.jpg" alt="power" width="100"/>
   <img src="./excel.jpg" alt="excel" width="100"/>
   <img src="./notion.jpg" alt="notion" width="100"/>
   <img src="./figma.jpg" alt="figma" width="100"/>

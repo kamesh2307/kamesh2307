@@ -23,7 +23,7 @@ Strategy & Research | User-Centric Products | Bridging Needs & Goals | Roadmappi
 <p align="center">
   <img src="./netflix.png" alt="netflix" width="100"/>
   <img src="./hotstar.png" alt="hotstar" width="100"/>
-  <img src="./Xbox.png" alt="Xbox" width="100"/>
+  <img src="./xbox.png" alt="xbox" width="100"/>
   <img src="./steam.png" alt="steam" width="100"/>
 </p>
 

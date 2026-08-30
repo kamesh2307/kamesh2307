@@ -56,5 +56,5 @@ User Research | Data-Driven Decision Making | Roadmapping & Prioritization | Cro
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: [Your Link]  
-- Email: [Your Email]  
+- LinkedIn: [https://www.linkedin.com/in/kamesh-murty/)]  
+- Email: [kameshmurty23@gmail.com]  

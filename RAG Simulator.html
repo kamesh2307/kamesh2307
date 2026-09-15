@@ -1,0 +1,32 @@
+                 ┌──────────────────┐
+                 │   Your Documents │
+                 └────────┬─────────┘
+                          ↓
+                     Chunking
+                          ↓
+                    Embeddings
+                          ↓
+                 ┌─────────────────┐
+                 │   Vector Store  │
+                 └────────┬────────┘
+                          │
+                          │
+User Question ──→ Embedding
+                          │
+                          ↓
+                    Vector Search
+                          ↓
+                      Top-K
+                          ↓
+                     Reranking
+                          ↓
+                  Context Assembly
+                          ↓
+              ┌─────────────────────┐
+              │ Prompt + Context    │
+              │ + User Question     │
+              └──────────┬──────────┘
+                         ↓
+                        LLM
+                         ↓
+                  Grounded Answer
